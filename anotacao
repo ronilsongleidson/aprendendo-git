@@ -1,0 +1,25 @@
+hierarquia de pastas E21
+
+ronilson.xavier
+    dev
+
+
+----- Comandos basicos git e bash
+como navegar entre pastas dentro do gitbash
+    ** entrar na pasta
+        cd /c/alicio.neto/dev
+    ** voltar um nivel
+        cd ..
+
+ver conteudo da pasta 
+    * ls 
+alterado
+
+git status - verifica estado do repositorio.
+git add - adiciona um arquivo para commitar
+git commit -m '' - gera um novo commit com a mensagem entre apostrofos.
+git push - manda para o repositorio remoto
+
+
+git checkout -b <branch_name> - criar um nova branch
+git checkout  <branch_name> - vai para um branch especifica
