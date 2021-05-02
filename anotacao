@@ -23,3 +23,6 @@ git push - manda para o repositorio remoto
 
 git checkout -b <branch_name> - criar um nova branch
 git checkout  <branch_name> - vai para um branch especifica
+
+
+Editado
